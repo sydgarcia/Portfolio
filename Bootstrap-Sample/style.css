@@ -1,0 +1,66 @@
+body {
+    background-image: linear-gradient(to right bottom, #000000, #2e2e2e, #585858, #878787, #b9b9b9, #c2c0d0, #ccc6e7, #d5cdff, #b5a8ff, #9184ff, #6560ff, #003cff);
+}
+
+.container{
+    position: relative;
+}
+
+
+.welcome {
+    background-color: whitesmoke;
+    text-align: center;
+}
+
+/* First card */
+
+.card1 {
+    
+}
+
+.card1 h1 {
+    text-align: center;
+}
+
+/* Second card */
+
+.card2 {
+
+}
+
+.card2 h1 {
+    text-align: center;
+}
+
+/* Third card */
+
+.card3 {
+
+}
+
+.card3 h1 {
+    text-align: center;
+}
+
+
+/* Fourth card */
+
+.card4 {
+    display: grid;
+    justify-content: center;
+}
+
+.card4 h1 {
+    text-align: center;
+}
+
+footer {
+    background-color: whitesmoke;
+}
+
+.bootom-bar {
+
+}
+.card {
+    height:91%;
+}
